@@ -1,0 +1,1 @@
+# Conversando-por-Voz-Com-o-ChatGPT-Utilizando-Whisper-e-Python
