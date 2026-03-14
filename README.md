@@ -5,3 +5,5 @@ Se você já pensou em conversar com o ChatGPT usando linguagem natural e recebe
 OBS: Basta ter uma API key da OpenAI.
 
 Link do projeto: https://colab.research.google.com/drive/1E9s65LGOW9GP-oBXaVIa4NEEYURLN5_u?usp=sharing
+
+OBS: Caso não consiga acessar o projeto, ele está disponível aqui, em formato .txt
