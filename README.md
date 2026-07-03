@@ -1,4 +1,4 @@
-# 🎙️ Conversando por Voz com o ChatGPT utilizando Whisper e Python
+# Conversando por Voz com o ChatGPT utilizando Whisper e Python
 
 Converse com o ChatGPT utilizando apenas a sua voz. Este projeto demonstra como integrar os modelos da OpenAI para criar uma interação por linguagem natural, convertendo fala em texto, processando a solicitação com o ChatGPT e retornando a resposta em áudio.
 
